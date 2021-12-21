@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Deepak2-0
 - 👀 I’m interested in web development..
-- 🌱 I’m currently learning frontend development..
-- 💞️ I’m looking to collaborate on ...
 - 📫 React me at Twitter @DeepakC01065864
 
 <!---
